@@ -17,7 +17,7 @@ Green Route revolutionizes agricultural commerce by directly connecting farmers 
 | **Real-Time Marketplace** | Live product listings with detailed descriptions and dynamic pricing |
 | **Smart Logistics** | AI-optimized delivery routes reducing transportation costs by up to 30% |
 | **Secure Transactions** | Integrated UPI/Stripe payments with escrow protection |
-| **Bilingual Interface** | Tamil/English support with voice-assisted navigation |
+
 
 ## Technology Stack 💻
 
